@@ -1,6 +1,3 @@
-# nonebot_Synology_monitoring
-Nonebot2 对群晖的监控状态插件
-
 
 # Synology Monitoring 插件
 
